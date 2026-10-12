@@ -16,5 +16,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0190-reverse-bits](https://github.com/BirenMahali001/leetcode-solutions/tree/master/0190-reverse-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/BirenMahali001/leetcode-solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/BirenMahali001/leetcode-solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
